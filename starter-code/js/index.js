@@ -3,14 +3,19 @@ function deleteItem(e){
 }
 
 function getPriceByProduct(itemNode){
-
+  l
+  return
 }
 
 function updatePriceByProduct(productPrice, index){
 
 }
 
+//RETRIEVE TOTAL PRICE
 function getTotalPrice() {
+  let unitPrice = document.getElementById("cost")
+  let userInput = document.getElementByClassName("input")[0].value;
+  for()
 
 }
 
